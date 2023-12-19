@@ -1,4 +1,4 @@
-## Java ORM Project
+## JDBC Simplify Project
 This project is a simple Object-Relational Mapping (ORM) framework built in Java. It provides a way to interact with your database using Java objects.
 
 ## Prerequisites
@@ -51,7 +51,7 @@ db.disconnect();
 
 ## Building the Project
 To build the project, run the build script in the pom.xml file:
-```bash
+```shell
 mvn clean install
 ```
 This will compile your code, run any tests, and package your project into a JAR file.
