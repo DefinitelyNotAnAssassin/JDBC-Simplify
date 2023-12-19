@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Winmri\\Downloads\\sqlite-jdbc-3.44.1.0.jar",
+        "d:\\Downloads\\slf4j-api-1.7.36.jar"
+    ],
+    "java.configuration.updateBuildConfiguration": "automatic"
+}
